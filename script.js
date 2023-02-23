@@ -1,1 +1,2 @@
-var yourarray=['squid',7,true,undefined, null];
+var yourArray=['squid',7,true,undefined, null];
+console.log(yourArray);
