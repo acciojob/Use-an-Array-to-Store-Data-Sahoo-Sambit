@@ -1,2 +1,1 @@
-var yourArray=['squid',7,true,undefined, null];
-console.log(yourArray);
+var yourArray=["Name",7,true,undefined, null,"before each"]
