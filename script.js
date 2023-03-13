@@ -1,1 +1,1 @@
-var yourArray=["Name",7,true,undefined, null,"before each"]
+let yourArray = ['one', 2, 'three', true, false, undefined, null];
