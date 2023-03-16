@@ -1,1 +1,2 @@
-let yourArray = ["string",1, true,false,23];
+let yourArray = ['one', 2, 'three', true, false, undefined, null];
+console.log(yourArray);
