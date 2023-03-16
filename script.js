@@ -1,6 +1,3 @@
-const list = document.querySelectorAll('li');
+const list = document.getElementsByName('li');
+list.length=0;
 let yourArray = ['one', 2, true, 56, null];
-for (let i = 0; i < 5; i++) {
-	var element=yourArray[i];
-	list[i].innerHTML=element;
-}
